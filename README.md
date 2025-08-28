@@ -1,9 +1,9 @@
-# Diagonal IRS optimization
+# IRS-assisted Non-orthogonal SISO communication optimization
 
 ## Versions:
     # 20250303: 
         # Added:
-            # Code of Nacho for Non-orthogonal SISO is translated from Matlab to Python.
+            # Code for Non-orthogonal SISO is translated from Matlab to Python.
             # The script SampleGeneration.py is used to generate samples for the training of 
                 the neural network. The best performance are obtained when generating all the
                 samples from a single setup.
