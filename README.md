@@ -1,4 +1,4 @@
-# Beyond Diagonal IRS optimization
+# Diagonal IRS optimization
 
 ## Versions:
     # 20250303: 
