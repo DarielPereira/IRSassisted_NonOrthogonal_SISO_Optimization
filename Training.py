@@ -1,3 +1,7 @@
+"""
+This script trains a neural network model using either supervised or self-supervised learning.
+"""
+
 import os
 import torch as th
 from torch.utils.data import DataLoader, random_split

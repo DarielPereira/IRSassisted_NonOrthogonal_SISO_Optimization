@@ -1,3 +1,7 @@
+"""
+This function generates the channels for the RIS-assisted uplink scenario.
+"""
+
 import numpy as np
 
 def ChannelsUL(K, M, PosBS_XYZ, PosUE_XYZ, PosRIS_XYZ, channelparams):

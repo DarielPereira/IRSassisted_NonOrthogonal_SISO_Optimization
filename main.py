@@ -1,3 +1,11 @@
+"""
+This code simulates the uplink of multi-user SISO systems assisted by Reconfigurable Intelligent Surface (RIS). It
+evaluates the supervised and self-supervised (goal-oriented learning/objective-driven unsupervised learning/
+direct metric optimization) learning approaches for optimizing the RIS configuration to maximize the sum-rate. Comparison
+with the optimal scheme is presented.
+"""
+
+
 import os
 
 # Set the environment variable to allow duplicate OpenMP runtime

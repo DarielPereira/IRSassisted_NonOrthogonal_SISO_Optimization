@@ -1,3 +1,10 @@
+"""
+This code generates a dataset for training a neural network to optimize the phase shifts of a Reconfigurable Intelligent
+Surface (RIS) in a wireless communication system. It simulates multiple setups and realizations of user positions and
+channel conditions, computes the optimal RIS configuration using Semi-definite Relaxation (SDR), and stores the results
+in a dataset for supervised or self-supervised learning.
+"""
+
 import os
 
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'

@@ -1,3 +1,8 @@
+"""
+This module contains the implementation of the neural network models for supervised and self-supervised learning.
+It includes the definition of the neural network architecture, training and validation methods, and dataset handling classes.
+"""
+
 import torch
 import torch as th
 from collections import deque
